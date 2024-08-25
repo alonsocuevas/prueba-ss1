@@ -16,3 +16,5 @@ print("Su edad es: ", edad)
 print("es del tipo", type(edad))
 
 # esto es un comentario de prueba!
+
+# este codigo no staba funcionando, esto es un hotfix
